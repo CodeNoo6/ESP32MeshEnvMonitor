@@ -16,7 +16,7 @@
     <li>H. Li-ion/Li-Po 500mA 3.7V</li>
   </ul>
   <hr>
-  <h3>PIN DESCRIPTION IN LILYGO T7 V1.3 MINI 32 ESP32</h3>
+  <h3>Pin description in lilygo t7 v1.3 mini 32 ESP32</h3>
   <p>Using the following datasheet corresponding to the ESP32, the pins for each component are described:</p>
   <img src="https://github.com/CodeNoo6/ESP32MeshEnvMonitor/blob/master/Images/ESP_Datashet.jpg?raw=true" alt="UniversidadLogo">
   <p>PM 2.5 Air/Dust Particle Sensor G5 PMS500: </p>
@@ -44,6 +44,14 @@
   <p>Micro SD TF Card Memory: </p>
   <ul>
     <li>VCC: 5v</li>
+    <li>MOSI: 23</li>
+    <li>MISO: 19</li>
+    <li>CS: 5</li>
+    <li>SCK: 18</li>
+  </ul>
+  <p>1.3-inch OLED display module with 128 x 64: </p>
+  <ul>
+    <li>VCC: 5v </li>
     <li>MOSI: 23</li>
     <li>MISO: 19</li>
     <li>CS: 5</li>
