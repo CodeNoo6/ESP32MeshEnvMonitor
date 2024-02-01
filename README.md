@@ -15,7 +15,8 @@
     <li>G. 1.3-inch OLED display module with 128 x 64</li>
     <li>H. Li-ion/Li-Po 500mA 3.7V</li>
   </ul>
-  <h3>Explanation</h3>
+  <hr>
+  <h3>Installation and use</h3>
   <hr>
   <p></p>
 </p>
