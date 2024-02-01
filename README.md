@@ -21,9 +21,15 @@
   <img src="https://github.com/CodeNoo6/ESP32MeshEnvMonitor/blob/master/Images/ESP_Datashet.jpg?raw=true" alt="UniversidadLogo">
   <p>PM 2.5 Air/Dust Particle Sensor G5 PMS500: </p>
   <ul>
-    <li>VCC: 5V</li>
+    <li>VCC: 5v</li>
     <li>RX: 25</li>
     <li>TX: 32</li>
+  </ul>
+  <p>NEO6MV2 GPS: </p>
+  <ul>
+    <li>VCC: 5v</li>
+    <li>RX: 17</li>
+    <li>TX: 16</li>
   </ul>
   <hr>
   <h3>1. Installation and use</h3>
