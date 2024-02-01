@@ -19,6 +19,6 @@
   <h3>1. Installation and use</h3>
   <hr>
   <h4>1.1. Installation of Libraries</h4>
-  <p>Download the folder from <a href="URL_AQUÍ"></a> y pégala en la siguiente ruta:</p>
+  <p>Download the folder from <a href="URL_AQUÍ">esta URL</a> y pégala en la siguiente ruta:</p>
   <p>/ruta/de/destino/aqui</p>
 </p>
