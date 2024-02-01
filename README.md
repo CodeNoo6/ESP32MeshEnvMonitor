@@ -6,10 +6,14 @@
   <img src="https://github.com/CodeNoo6/ESP32MeshEnvMonitor/blob/master/Images/Diseño.png?raw=true" alt="UniversidadLogo">
   <p>The device is composed of the following modules:</p>
   <ul>
-    <li>A. Module 1</li>
-    <li>B. Module 2</li>
+    <li>A. LILYGO T7 V1.3 MINI 32 ESP32</li>
+    <li>B. PM 2.5 Air/Dust Particle Sensor G5 PMS500</li>
     <li>C. Module 3</li>
     <li>D. Module 4</li>
+    <li>E. Module 4</li>
+    <li>F. Module 4</li>
+    <li>G. Module 4</li>
+    <li>H. Module 4</li>
   </ul>
   <h3>Explanation</h3>
   <hr>
