@@ -34,13 +34,13 @@
   <p>DHT11 Temperature and Humidity sensor: </p>
   <ul>
     <li>VCC: 5v</li>
-    <li>SDA: 21</li>
-    <li>SCL: 22</li>
+    <li>DATA: 21</li>
   </ul>
   <p>DS3231 Real Time Clock Module: </p>
   <ul>
     <li>VCC: 5v</li>
-    <li>Data: 21</li>
+    <li>SDA: 21</li>
+    <li>SCL: 22</li>
   </ul>
   <p>Micro SD TF Card Memory: </p>
   <ul>
@@ -52,19 +52,14 @@
   </ul>
   <p>Buttons: </p>
   <ul>
-    <li>VCC: 5v</li>
-    <li>MOSI: 23</li>
-    <li>MISO: 19</li>
-    <li>CS: 5</li>
-    <li>SCK: 18</li>
+    <li>PIN: 33</li>
+    <li>PIN: 34</li>
   </ul>
   <p>1.3-inch OLED display module with 128 x 64: </p>
   <ul>
     <li>VCC: 5v </li>
-    <li>MOSI: 23</li>
-    <li>MISO: 19</li>
-    <li>CS: 5</li>
-    <li>SCK: 18</li>
+    <li>SDA: 21</li>
+    <li>SCL: 22</li>
   </ul>
   <hr>
   <h3>1. Installation and use</h3>
