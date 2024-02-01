@@ -17,7 +17,7 @@
   </ul>
   <hr>
   <h3>Pin description in LILYGO T7 V1.3 MINI 32 ESP32</h3>
-  <img src="https://github.com/CodeNoo6/ESP32MeshEnvMonitor/blob/master/Images/ESP_Datashet.png?raw=true" alt="UniversidadLogo">
+  <img src="https://github.com/CodeNoo6/ESP32MeshEnvMonitor/blob/master/Images/ESP_Datashet.jpg?raw=true" alt="UniversidadLogo">
   <hr>
   <h3>1. Installation and use</h3>
   <hr>
