@@ -21,4 +21,11 @@
   <h4>1.1. Installation of Libraries</h4>
   <p>Download the folder from <a href="Source code/libraries">libraries</a> paste it in your Arduino IDE libraries folder, generally it is in:</p>
   <p>Documents/Arduino/libraries</p>
+  ```C
+    digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
+    delay(1000);                       // wait for a second
+    Serial.println("blink on");
+    digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
+    delay(1000);                       // wait for a second
+  ```
 </p>
