@@ -34,7 +34,8 @@
   <p>DHT11 Temperature and Humidity sensor: </p>
   <ul>
     <li>VCC: 5v</li>
-    <li>Data: 21</li>
+    <li>SDA: 21</li>
+    <li>SCL: 22</li>
   </ul>
   <p>DS3231 Real Time Clock Module: </p>
   <ul>
@@ -42,6 +43,14 @@
     <li>Data: 21</li>
   </ul>
   <p>Micro SD TF Card Memory: </p>
+  <ul>
+    <li>VCC: 5v</li>
+    <li>MOSI: 23</li>
+    <li>MISO: 19</li>
+    <li>CS: 5</li>
+    <li>SCK: 18</li>
+  </ul>
+  <p>Buttons: </p>
   <ul>
     <li>VCC: 5v</li>
     <li>MOSI: 23</li>
@@ -95,5 +104,5 @@
         #include "RTClib.h"
   </code>
   <p>In the Arduino IDE environment, download and paste into a new sketch <a href="Source code/sketch_jan25a.ino">source code</a> click on verify so that everything is working correctly.</p>
-  <h4>1.2. I</h4>
+  <h4>1.2. Code Explanation</h4>
 </p>
