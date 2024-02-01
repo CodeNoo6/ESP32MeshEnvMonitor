@@ -17,6 +17,7 @@
   </ul>
   <hr>
   <h3>PIN DESCRIPTION IN LILYGO T7 V1.3 MINI 32 ESP32</h3>
+  <p>Using the following datasheet corresponding to the ESP32, the pins for each component are described:</p>
   <img src="https://github.com/CodeNoo6/ESP32MeshEnvMonitor/blob/master/Images/ESP_Datashet.jpg?raw=true" alt="UniversidadLogo">
   <hr>
   <h3>1. Installation and use</h3>
