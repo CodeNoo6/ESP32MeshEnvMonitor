@@ -16,6 +16,8 @@
     <li>H. Li-ion/Li-Po 500mA 3.7V</li>
   </ul>
   <hr>
+  <h3>Pin description in LILYGO T7 V1.3 MINI 32 ESP32</h3>
+  <hr>
   <h3>1. Installation and use</h3>
   <hr>
   <h4>1.1. Installation of Libraries</h4>
