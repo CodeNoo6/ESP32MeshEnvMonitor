@@ -19,6 +19,12 @@
   <h3>PIN DESCRIPTION IN LILYGO T7 V1.3 MINI 32 ESP32</h3>
   <p>Using the following datasheet corresponding to the ESP32, the pins for each component are described:</p>
   <img src="https://github.com/CodeNoo6/ESP32MeshEnvMonitor/blob/master/Images/ESP_Datashet.jpg?raw=true" alt="UniversidadLogo">
+  <p>PM 2.5 Air/Dust Particle Sensor G5 PMS500: </p>
+  <ul>
+    <li>VCC: 5V</li>
+    <li>RX: 25</li>
+    <li>TX: 32</li>
+  </ul>
   <hr>
   <h3>1. Installation and use</h3>
   <hr>
