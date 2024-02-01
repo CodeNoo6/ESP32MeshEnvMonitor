@@ -16,7 +16,7 @@
     <li>H. Li-ion/Li-Po 500mA 3.7V</li>
   </ul>
   <hr>
-  <h3>Pin description in LILYGO T7 V1.3 MINI 32 ESP32</h3>
+  <h3>PIN DESCRIPTION IN LILYGO T7 V1.3 MINI 32 ESP32</h3>
   <img src="https://github.com/CodeNoo6/ESP32MeshEnvMonitor/blob/master/Images/ESP_Datashet.jpg?raw=true" alt="UniversidadLogo">
   <hr>
   <h3>1. Installation and use</h3>
