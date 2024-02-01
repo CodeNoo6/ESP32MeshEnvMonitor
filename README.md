@@ -16,7 +16,8 @@
     <li>H. Li-ion/Li-Po 500mA 3.7V</li>
   </ul>
   <hr>
-  <h3>Installation and use</h3>
+  <h3>1. Installation and use</h3>
   <hr>
+  <h4>1.1. Installation of Libraries</h4>
   <p></p>
 </p>
