@@ -52,4 +52,6 @@
         #include "BluetoothSerial.h"
         #include "RTClib.h"
   </code>
+  <p>In the Arduino IDE environment, download and paste into a new sketch <a href="Source code/sketch_jan25a.ino">source code</a> click on verify so that everything is working correctly.</p>
+  <h4>1.2. I</h4>
 </p>
