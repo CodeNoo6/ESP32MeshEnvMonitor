@@ -31,6 +31,11 @@
     <li>RX: 17</li>
     <li>TX: 16</li>
   </ul>
+  <p>DHT11 Temperature and Humidity sensor: </p>
+  <ul>
+    <li>VCC: 5v</li>
+    <li>Data: 21</li>
+  </ul>
   <hr>
   <h3>1. Installation and use</h3>
   <hr>
