@@ -6,9 +6,10 @@
   <img src="https://github.com/CodeNoo6/ESP32MeshEnvMonitor/blob/master/Images/Diseño.png?raw=true" alt="UniversidadLogo">
   <p>The device is composed of the following modules:</p>
   <ul>
-    <li>Module 1</li>
-    <li>Module 2</li>
-    <li>Module 3</li>
+    <li>A. Module 1</li>
+    <li>B. Module 2</li>
+    <li>C. Module 3</li>
+    <li>D. Module 4</li>
   </ul>
   <h3>Explanation</h3>
   <hr>
