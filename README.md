@@ -23,10 +23,33 @@
   <p>Documents/Arduino/libraries</p>
   <p>In the script they look like this <a href="Source code/sketch_jan25a.ino">source code</a>:</p>
   <code>
-    digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
-    delay(1000);                       // wait for a second
-    Serial.println("blink on");
-    digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-    delay(1000);                       // wait for a second
+    #include <SPI.h>
+    #include <Wire.h>
+    #include <SoftwareSerial.h>
+    #include <Adafruit_SSD1306.h>
+    #include <Fonts/FreeSerif12pt7b.h>
+    #include <Fonts/FreeSansBold12pt7b.h>
+    #include <Fonts/FreeMonoOblique12pt7b.h>
+    #include <Fonts/FreeMonoBold12pt7b.h>
+    #include <Fonts/FreeSansOblique12pt7b.h>
+    #include <TinyGPS++.h>
+    #include <DHT.h>
+    #include "RtcDS3231.h"
+    #include "FS.h"
+    #include "SD.h"
+    #include <math.h>
+    #include "painlessMesh.h"
+    #include <Adafruit_Sensor.h>
+    #include "Fonts/FreeSans12pt7b.h"
+    #include <Arduino.h>
+    #include "Sensirion_GadgetBle_Lib.h"
+    #include "Adafruit_PM25AQI.h"
+    #include "SPI.h"
+    #include <WiFi.h>
+    #include <Firebase_ESP_Client.h>
+    #include <addons/TokenHelper.h>
+    #include <Fonts/FreeSerifBoldItalic9pt7b.h>
+    #include "BluetoothSerial.h"
+    #include <RTClib.h>
   </code>
 </p>
